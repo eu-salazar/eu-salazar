@@ -1,4 +1,4 @@
-## Saldações Dev, Salazar aqui!! 
+## Saudações Dev, Salazar aqui!! 
 
  <div>
    <a href="https://github.com/eu-salazar">
