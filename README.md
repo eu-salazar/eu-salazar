@@ -6,10 +6,10 @@
 
 <br>
 
- <div>
-   <a href="https://github.com/eu-salazar">
-   <img width="49% height="195px" src="https://github-readme-stats.vercel.app/api?username=eu-salazar&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-   <img  width="41% height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eu-salazar&layout=compact&langs_count=6&theme=merko"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eu-salazar&show_icons=true&count_private=true&hide_border=true&title_color=2E8B57&icon_color=2E8B57&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Salazar github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MthAlvarez&layout=compact&hide_border=true&title_color=2E8B57&text_color=2E8B57&bg_color=0d1117" />
+</div>
 
 <br>
 <br>
@@ -28,7 +28,11 @@
   
  <br>
  
-  ### Acompanhe as minhas experiencias e evolução! 
+
+  ### Acompanhe as minhas experiencias e evolução!
+  
+<br>
+
 <div> 
  
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
