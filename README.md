@@ -5,7 +5,7 @@
 <h1 align="center">Minha Atividade</h1>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eu-salazar&show_icons=true&count_private=true&hide_border=true&theme=gotham" alt="Eduardo Salazar github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MthAlvarez&layout=compact&hide_border=true&theme=gotham"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eu-salazar&layout=compact&hide_border=true&theme=gotham"/>
 </div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=eu-salazar&theme=gotham&hide_border=true&area=true)
