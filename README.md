@@ -4,11 +4,10 @@
 
 <h1 align="center">Minha Atividade</h1>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eu-salazar&show_icons=true&count_private=true&hide_border=true&theme=gotham" alt="Eduardo Salazar github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eu-salazar&layout=compact&hide_border=true&theme=gotham"/>
-</div>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=eu-salazar&theme=gotham&hide_border=true&area=true)
+  <a href="https://github.com/eu-salazar">
+  <img height="180em" width="400em" src="https://vercel-repo-umber.vercel.app/api?username=eu-salazar&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true"/> 
+  <img height="180em" width="400em" src="https://vercel-repo-umber.vercel.app/api/top-langs/?username=eu-salazar&layout=compact&langs_count=7&theme=gotham&exclude_repo=namd_analysis,vercel_repo&hide_border=true"/>
+</div> 
 
 <div align="center">
   <img alt="HTML" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
